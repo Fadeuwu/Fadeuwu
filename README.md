@@ -7,7 +7,7 @@
 - I'm a snowflake
 
 
-## GitHub Statistics
+### GitHub Statistics
 [![Kat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=calico-cl&show_icons=true&theme=radical)](https://github.com/calico-cl?tab=overview)
 <br>
 <a href="https://github.com/calico-cl?tab=overview">
