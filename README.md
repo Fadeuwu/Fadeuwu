@@ -8,9 +8,7 @@
 
 
 ### GitHub Statistics
-[![Kat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=calico-cl&show_icons=true&theme=nord)](https://github.com/calico-cl?tab=overview)
-<br>
-<a href="https://github.com/calico-cl?tab=overview">
+[![Kat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=calico-cl&show_icons=true&theme=nord)](https://github.com/kanayatto?tab=overview)
 ### Project Details
 - Currently working on a discord bot `not open source ;(`
 - FXS has been dead for nearly 2 years `Community, Skin Swapper`
