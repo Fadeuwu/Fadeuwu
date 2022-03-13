@@ -1,9 +1,9 @@
 ## 👋 Hewwo!
 
 ### About Me
-- I'm 13
-- I develop console and UI applications in C#
-- I use Visual Studio 2022
+- Age: 13
+- Pronouns: He/Him
+- Interests: C#, JS, C++ (Self taught so I'm terrible at coding)
 - I'm a snowflake
 
 ### Project Details
