@@ -1,24 +1,25 @@
-## 👋 Hewwo!
+## Hewwo! <img align=right src="https://avatars.githubusercontent.com/u/71313658?v=4" width=200 />
 
-### About Me
-- Age: 13
-- Pronouns: He/Him
-- Interests: C#, JS, C++ (Self taught so I'm terrible at coding)
-- I'm a snowflake
+<h2 align="center">About Me</h2>
+
+I'm **Kyatto**(Kat), a developer that forgets to upload repositories alot. I like to create console and WinForms applications in **C#**, I have been self taught so I'm not the best at coding.
 
 
-### GitHub Statistics
-[![Kat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanayatto&show_icons=true&theme=nord)](https://github.com/kanayatto?tab=overview)
-### Project Details
-- Currently working on a discord bot `not open source ;(`
-- FXS has been dead for nearly 2 years `Community, Skin Swapper`
-- Synix is also dead `Was an AntiVirus, AntiCheat, VPN service`
-- Darky might be revived soon `Community, Roblox Executor`
-- Calico is a new one :) `https://github.com/calico-cl/`
+<h2 align="center">GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanayatto&show_icons=true&theme=nord"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanayatto&theme=nord">
+</p>
 
-### Contact Details
-- Discord: kitkat#1000 or kana#6839
-- Epic Games: FloofoOwO
+<h2 align="center">Contact Details</h3>
+<p align=center>
+  Discord: kitkat#1000 or kana#6839
+</p>
+<p align=center>
+  Reddit: catvibe_
+</p>
+<p align=center>
+  Xbox: FloofoUwU
+</p>
 
 <!---
 Fadeuwu/Fadeuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
