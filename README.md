@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-I'm **Kyatto**(Kat), a developer that forgets to upload repositories alot. I like to create console and WinForms applications in **C#**, I have been self taught so I'm not the best at coding. I'm also learning JS and C++, so if anyone can help me, please do.
+I'm **Kyatto**(Kat), a developer that forgets to upload repositories alot. I like to create console and WinForms applications in **C#**, I have been self taught so I'm not the best at coding. I'm also learning how to create games in UE5 (Unreal Engine 5) using blueprints, I'm not smart enough to code a game in c++.
 
 
 <h2 align="center">GitHub Statistics</h3>
