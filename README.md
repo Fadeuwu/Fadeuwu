@@ -1,4 +1,4 @@
-## I have a dad <img align=right src="https://avatars.githubusercontent.com/u/71313658?v=4" width=200 />
+## Hi <img align=right src="https://avatars.githubusercontent.com/u/71313658?v=4" width=200 />
 
 <h2 align="center">About Me</h2>
 
