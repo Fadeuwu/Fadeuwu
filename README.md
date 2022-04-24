@@ -10,7 +10,7 @@ I'm **Kyatto**(Kat), a developer that forgets to upload repositories alot. I lik
 <h2 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanayatto&show_icons=true&theme=nord" width=450/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanayatto&theme=nord" width=450/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanayatto&show_icons=true&theme=nord" width=425/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanayatto&theme=nord" width=425/>
 </p>
 
 
