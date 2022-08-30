@@ -19,7 +19,7 @@ I'm **Kyatto**(Kat), a developer that forgets to upload repositories alot. I lik
 <h2 align="center">Contact</h3>
 
 <p align=center>
-  Discord: kitkat#1000 or kana#6839
+  Discord: kyatto#2671 or kana#6839
 </p>
 
 
